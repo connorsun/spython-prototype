@@ -1,4 +1,4 @@
-keywords = {
+py_to_s_keywords = {
     "False": "Falso",
     "None": "Ninguno",
     "True": "Verdad",
@@ -39,3 +39,4 @@ keywords = {
 # nonlocal is makey uppy
 # deal with else, elif, and not
 # raise: keep as raise or throw?
+s_to_py_keywords = {val: key for key, val in py_to_s_keywords.items()}

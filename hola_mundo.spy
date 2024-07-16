@@ -1,0 +1,3 @@
+x = input("¡hola mundo! ¿cómo te llamas?")
+si no x == "juan":
+    print(x)
