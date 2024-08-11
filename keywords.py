@@ -34,6 +34,8 @@ py_to_s_keywords = {
     "while": "mientras",
     "with": "con",
     "yield": "produce",
+    "input": "introducir",
+    "print": "imprimir"
     }
 # excepto could be iffy
 # nonlocal is makey uppy

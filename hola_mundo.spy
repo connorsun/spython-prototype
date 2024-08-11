@@ -1,5 +1,5 @@
-x = input("¡hola mundo! ¿cómo te llamas?\n")
+x = introducir("¡Hola mundo! ¿Cómo te llamas?\n")
 si no x == "juan":
-    print(x)
+    imprimir(x)
 sino:
-    print("tu nombre es muy, muy mal si si si si")
+    imprimir("¡Tu nombre es muy, muy mal, sí!")
